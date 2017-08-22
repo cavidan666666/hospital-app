@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2017\Projects\Console.Ap Hospital\Console.Ap Hospital\bin\Debug\Console.Ap Hospital.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Console.Ap Hospital\Console.Ap Hospital\bin\Debug\Console.Ap Hospital.exe
+c:\users\user\documents\visual studio 2017\Projects\Console.Ap Hospital\Console.Ap Hospital\bin\Debug\Console.Ap Hospital.pdb
+c:\users\user\documents\visual studio 2017\Projects\Console.Ap Hospital\Console.Ap Hospital\obj\Debug\Console.Ap Hospital.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Console.Ap Hospital\Console.Ap Hospital\obj\Debug\Console.Ap_Hospital.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\Console.Ap Hospital\Console.Ap Hospital\obj\Debug\Console.Ap_Hospital.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\Console.Ap Hospital\Console.Ap Hospital\obj\Debug\Console.Ap Hospital.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\Console.Ap Hospital\Console.Ap Hospital\obj\Debug\Console.Ap Hospital.exe
+c:\users\user\documents\visual studio 2017\Projects\Console.Ap Hospital\Console.Ap Hospital\obj\Debug\Console.Ap Hospital.pdb
+C:\Users\P501\Desktop\Console.Ap Hospital\Console.Ap Hospital\bin\Debug\Console.Ap Hospital.exe.config
+C:\Users\P501\Desktop\Console.Ap Hospital\Console.Ap Hospital\bin\Debug\Console.Ap Hospital.exe
+C:\Users\P501\Desktop\Console.Ap Hospital\Console.Ap Hospital\bin\Debug\Console.Ap Hospital.pdb
+C:\Users\P501\Desktop\Console.Ap Hospital\Console.Ap Hospital\obj\Debug\Console.Ap Hospital.csprojResolveAssemblyReference.cache
+C:\Users\P501\Desktop\Console.Ap Hospital\Console.Ap Hospital\obj\Debug\Console.Ap_Hospital.Form1.resources
+C:\Users\P501\Desktop\Console.Ap Hospital\Console.Ap Hospital\obj\Debug\Console.Ap_Hospital.Properties.Resources.resources
+C:\Users\P501\Desktop\Console.Ap Hospital\Console.Ap Hospital\obj\Debug\Console.Ap Hospital.csproj.GenerateResource.Cache
+C:\Users\P501\Desktop\Console.Ap Hospital\Console.Ap Hospital\obj\Debug\Console.Ap Hospital.exe
+C:\Users\P501\Desktop\Console.Ap Hospital\Console.Ap Hospital\obj\Debug\Console.Ap Hospital.pdb
